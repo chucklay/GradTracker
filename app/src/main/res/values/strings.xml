@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GradTracker</string>
+
+    <string name="find_transcript">Please browse for your transcript:</string>
+    <string name="browse_button">Browse</string>
+    <string name="use_test">Use example transcript</string>
+    <string name="go_button">Go</string>
+    <string name="unimplimented">Not yet implemented.</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
